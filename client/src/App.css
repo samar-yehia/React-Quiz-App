@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.CTA-LandingPage-button {
+  font: 400 32px system-ui;
+  padding: 1px 7px 2px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+}
+.LandingPage-WelcomeHeader {
+}
