@@ -45,3 +45,20 @@
 }
 .LandingPage-WelcomeHeader {
 }
+.Previous-Button {
+  font: 400 32px system-ui;
+  padding: 1px 7px 2px;
+  border-width: 1px;
+  border-style: solid;
+  margin-left: 50px;
+  border-color: rgb(85, 91, 141) rgb(209, 209, 209) rgb(186, 186, 186);
+}
+
+.Next-Button {
+  font: 400 32px system-ui;
+  padding: 1px 7px 2px;
+  border-width: 1px;
+  border-style: solid;
+  margin-right: 50px;
+  border-color: rgb(85, 91, 141) rgb(209, 209, 209) rgb(186, 186, 186);
+}
